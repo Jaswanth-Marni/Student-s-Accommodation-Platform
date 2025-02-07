@@ -1,1 +1,1 @@
-# Student's-Accommodation-Platform
+# Student-Accommodation-Platform
